@@ -4,6 +4,8 @@
 **Purpose**: Holds the testing harness and full functional test suite for the Dungeon Crawler content module.  
 **Depends on**: `dungeoncrawler_content`
 
+> **Checkpoint note (2026-05-17):** This tester module has been checkpoint-verified on `main`; review recent commit history for the exact test-harness state captured in this snapshot.
+
 ## What’s inside
 - PHPUnit configuration tuned for Drupal functional tests.
 - Comprehensive functional test suite (routes + controllers).
